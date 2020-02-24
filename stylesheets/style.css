@@ -1,0 +1,32 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: #00B7FF;
+}
+
+img,
+video {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.container {
+  position: relative;
+}
+
+.upper-1 {
+  position: absolute;
+  width: 46%;
+  top: 20%;
+  right: 41.5%;
+}
+
+.upper-2 {
+  position: absolute;
+  width: 39%;
+  top: 15%;
+  right: 5.5%;
+}
